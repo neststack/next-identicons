@@ -1,0 +1,24 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  "cSpell.words": [
+    "adminwaitingroomDir",
+    "apikey",
+    "darkmode",
+    "getwaitingroom",
+    "localoffset",
+    "mediasoup",
+    "nextauth",
+    "opentok",
+    "sendemail",
+    "swipeable",
+    "swiper",
+    "toastify",
+    "unoptimized",
+    "unpublish"
+  ]
+}
